@@ -1,0 +1,11 @@
+/target/
+/Fusion-SSHR/nbproject/private/
+/Fusion-SSHR/EIT-SelfService/src/connNew.properties
+/Fusion-SSHR/src/css/
+*.class
+*.jdb
+*.war
+/Fusion-SSHR-Backend/EIT-SelfService/classes/*
+/Fusion-SSHR-Backend/nbproject/private/
+/Fusion-SSHR-Backend/EIT-SelfService/src/connNew.properties
+/Fusion-SSHR-Backend/EIT-SelfService/classes/*
